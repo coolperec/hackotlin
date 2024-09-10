@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "0c95c63dc8c56ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d8b312c22210e5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8f93e22b16e473a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Kotlin course 09.09.2024/1 урок.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "10a3384dd52ccef0",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c462b1e9483075e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2eb6e5ee04300968",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "658640aeba2baabb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8b82b222cabb66ca",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e8501290bbed9fb2",
+    "type": "split",
+    "children": [
+      {
+        "id": "e569e2d565c8d26a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77080207be0fbda7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Programming/Kotlin course 09.09.2024/1 урок.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "184a976e01003013",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Programming/Kotlin course 09.09.2024/1 урок.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3e4f07218aba73dd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a0f6e4150e765a0a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Programming/Kotlin course 09.09.2024/1 урок.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "b8f93e22b16e473a",
+  "lastOpenFiles": [
+    "Programming/Kotlin course 09.09.2024/kotlin course 09.09.2024.md",
+    "Programming/Kotlin course 09.09.2024/1 урок.md",
+    "Добро пожаловать.md",
+    "Programming/Kotlin course 09.09.2024",
+    "Programming",
+    "README.md"
+  ]
+}
