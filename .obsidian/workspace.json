@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9aab04c1e2864505",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Roadmap/RoadMap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -181,12 +193,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42909ac9f8ce64be",
+  "active": "9aab04c1e2864505",
   "lastOpenFiles": [
+    "Programming/Kotlin course 09.09.2024/Compose.md",
+    "Programming/Roadmap/RoadMap.md",
     "Programming/Kotlin course 09.09.2024/1 урок.md",
     "Programming/Kotlin course 09.09.2024/2 урок.md",
     "Programming/Kotlin course 09.09.2024/kotlin course 09.09.2024.md",
-    "Programming/Roadmap/RoadMap.md",
     "Programming/Roadmap",
     "README.md",
     "Без названия",
