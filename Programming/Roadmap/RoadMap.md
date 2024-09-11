@@ -1,6 +1,6 @@
 ---
 Course URL: https://youtu.be/W1wmS-4OJok
-relations:
+relations: "[[kotlin course 09.09.2024]]"
 ---
 Что изучать а что нет:
 
