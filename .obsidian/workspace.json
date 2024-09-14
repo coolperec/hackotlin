@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Kotlin course 09.09.2024/Лямбда в Kotlin.md",
+                "file": "Programming/Kotlin course 09.09.2024/1 урок.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Kotlin course 09.09.2024/Лямбда в Kotlin.md",
+                "file": "Programming/Kotlin course 09.09.2024/1 урок.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Kotlin course 09.09.2024/Лямбда в Kotlin.md",
+                "file": "Programming/Kotlin course 09.09.2024/1 урок.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Kotlin course 09.09.2024/Лямбда в Kotlin.md"
+                "file": "Programming/Kotlin course 09.09.2024/1 урок.md"
               }
             }
           },
@@ -255,8 +255,8 @@
   },
   "active": "53bc4432391470f8",
   "lastOpenFiles": [
-    "Programming/Kotlin course 09.09.2024/Лямбда в Kotlin.md",
     "Programming/Kotlin course 09.09.2024/2 урок.md",
+    "Programming/Kotlin course 09.09.2024/Лямбда в Kotlin.md",
     "Programming/Kotlin course 09.09.2024/5 Урок.md",
     "Programming/Kotlin course 09.09.2024/kotlin course 09.09.2024.md",
     "Programming/Kotlin course 09.09.2024/4 урок.md",
