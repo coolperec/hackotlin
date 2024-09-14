@@ -4,119 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6d8b312c22210e5d",
+        "id": "282b3c1aea52860e",
         "type": "tabs",
         "children": [
           {
-            "id": "512da74622aacd52",
+            "id": "90feab1d0b5b5dfa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Kotlin course 09.09.2024/2 урок.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "71a2973c5de2a72e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Roadmap/RoadMap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "42909ac9f8ce64be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Roadmap/RoadMap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9aab04c1e2864505",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Kotlin course 09.09.2024/2 урок.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ae3dd8cac3a04117",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Kotlin course 09.09.2024/2 урок.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b3eb12a381882204",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Roadmap/RoadMap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "453e74a2ee4cc6be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Kotlin course 09.09.2024/4 урок.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bf4fe4ffe8e9b8d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Kotlin course 09.09.2024/3 урок.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "53bc4432391470f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Kotlin course 09.09.2024/1 урок.md",
+                "file": "Programming/Kotlin course 09.09.2024/kotlin course 09.09.2024.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Kotlin course 09.09.2024/1 урок.md",
+                "file": "Programming/Kotlin course 09.09.2024/kotlin course 09.09.2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Kotlin course 09.09.2024/1 урок.md",
+                "file": "Programming/Kotlin course 09.09.2024/kotlin course 09.09.2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Kotlin course 09.09.2024/1 урок.md"
+                "file": "Programming/Kotlin course 09.09.2024/kotlin course 09.09.2024.md"
               }
             }
           },
@@ -253,8 +156,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "53bc4432391470f8",
+  "active": "90feab1d0b5b5dfa",
   "lastOpenFiles": [
+    "Programming/Kotlin course 09.09.2024/1 урок.md",
     "Programming/Kotlin course 09.09.2024/2 урок.md",
     "Programming/Kotlin course 09.09.2024/Лямбда в Kotlin.md",
     "Programming/Kotlin course 09.09.2024/5 Урок.md",
@@ -263,7 +167,6 @@
     "Programming/Roadmap/RoadMap.md",
     "Programming/Kotlin course 09.09.2024/3 урок.md",
     "Programming/Kotlin course 09.09.2024/Compose.md",
-    "Programming/Kotlin course 09.09.2024/1 урок.md",
     "Programming/Roadmap",
     "README.md",
     "Без названия",
