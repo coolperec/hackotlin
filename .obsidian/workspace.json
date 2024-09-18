@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 урок.md",
+                "file": "Programming/Kotlin course 09.09.2024/7 урок.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "996a1690c86bb479",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8 урок.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7 урок.md",
+                "file": "8 урок.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7 урок.md",
+                "file": "8 урок.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7 урок.md"
+                "file": "8 урок.md"
               }
             }
           },
@@ -181,10 +193,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "314d323681516233",
+  "active": "996a1690c86bb479",
   "lastOpenFiles": [
+    "Programming/Kotlin course 09.09.2024/7 урок.md",
+    "8 урок.md",
     "Programming/Kotlin course 09.09.2024/kotlin course 09.09.2024.md",
-    "7 урок.md",
     "Programming/Kotlin course 09.09.2024/Урок 6.md",
     "Programming/Kotlin course 09.09.2024/Лямбда в Kotlin.md",
     "Programming/Kotlin course 09.09.2024/Compose.md",
