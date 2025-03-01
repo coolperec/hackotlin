@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "13 урок"
             }
+          },
+          {
+            "id": "38468a70bb6215fa",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -189,7 +201,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2eb6e5ee04300968",
+  "active": "38468a70bb6215fa",
   "lastOpenFiles": [
     "Programming/Kotlin course 09.09.2024/11_12 урок.md",
     "Programming/Kotlin course 09.09.2024/13 урок.md",
